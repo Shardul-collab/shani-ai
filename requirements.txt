@@ -1,0 +1,6 @@
+spacy
+pymupdf
+requests
+python-docx
+tqdm
+ollama

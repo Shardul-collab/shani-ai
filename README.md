@@ -103,11 +103,11 @@ python core/shani.py create "Your Research Topic"
 
 ### Start workflow
 
-python core/shani.py start `<workflow_id>`{=html}
+python core/shani.py start `<workflow_id>`
 
 ### Check status
 
-python core/shani.py status `<workflow_id>`{=html}
+python core/shani.py status `<workflow_id>`
 
 ------------------------------------------------------------------------
 
